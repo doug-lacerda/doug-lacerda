@@ -1,4 +1,4 @@
-## Hi there 👋
+## Wassup!! I'm Gôga 👋
 
 <!--
 **doug-lacerda/doug-lacerda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+⌨️ Coding is an art 🎨
+Learning how to learn to code, to make art...
+
+- 🌱 Starting with C... 
